@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Random Number Generator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Lower">Enter the Lowest Possible Number:</string>
+    <string name="higher">Enter the Highest Possible Number:</string>
+    <string name="iterations">"Enter how many times you want to repeat: "</string>
+    <string name="Begin">Generate</string>
+    <string name="space">" "</string>
+    <string name="iter">Enter how many Random Number you want:</string>
+
+</resources>
